@@ -1,2 +1,4 @@
 # Nodejs studies
- part of my studies about nodejs
+**Br** Parte dos meus estudos sobre Nodejs.
+
+**Us** Part of my studies about NodeJs.
